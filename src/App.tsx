@@ -3,7 +3,7 @@
 
 function App() {
 
-    const hi:string = "Well, hello. I'm React 17.0.2 with TS template..."
+    const hi:string = "Hello. I'm React 17.0.2 with TS template..."
 
     return (
         <div className="App">
